@@ -1,8 +1,8 @@
-PAGINATION SCRIPT WITHOUT PLUGIN
+SMOOTH SCROLL PAGINATION SCRIPT WITHOUT PLUGIN
 
 
 
-This is a simple pagination script using Jquery and Javascript whithout any plugin.
+This is a simple script using Jquery and Javascript whithout any plugin.
 
 
 -Respect HTML and style architecture.
